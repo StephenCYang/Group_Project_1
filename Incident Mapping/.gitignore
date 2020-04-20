@@ -1,0 +1,4 @@
+# files and directories to exclude
+
+google_key.py
+__pycache__/
