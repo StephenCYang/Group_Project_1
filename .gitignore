@@ -1,0 +1,5 @@
+# files and directories to exclude
+
+Ignored/
+.ipynb_checkpoints/
+
