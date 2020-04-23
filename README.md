@@ -19,3 +19,21 @@ Our project seeks to uncover patterns among traffic accidents in Los Angeles, ut
 - LA city API info:
   https://dev.socrata.com/foundry/data.lacity.org/d5tf-ez2w
   
+## Current Status
+
+- Data has been cleaned.
+- We have maps!
+
+![incidents_map.png](Resources/incidents_map.png)
+Incidents
+
+![heat_map.png](Resources/heat_map.png)
+Heat map
+
+![combined_map.png](Resources/combined_map.png)
+Combined
+
+## To-do
+- Determine the X top hotspots
+- Determine the X most common Modus Operandi (MO)
+- Statistical plotting and possible conclusions
