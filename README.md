@@ -8,7 +8,9 @@ Members are Andrea Rosenberger, Arezo (Zoey) Charif, Stephen Yang.
 
 ### Traffic Collisions in Los Angeles
 
-Our project seeks to uncover patterns among traffic accidents in Los Angeles, utilizing traffic collision data provided by the LAPD. We will uncover patterns and correlations among location frequency, time of day, reporting v occurrence time lag, and present statistics, charts, maps to demonstrate our results. Our study may be useful to city officials, planners, and engineers to design and implement infrastructural changes to reduce or eliminate future accidents.
+Our project seeks to uncover patterns among traffic accidents in Los Angeles (North Hollywood), utilizing traffic collision data provided by the LAPD. We will uncover patterns and correlations among location frequency, changes over time and major events type of collision in major hotspots, and present statistics, charts, maps to illustrate our results. 
+
+Our study may be useful to city officials, planners, and engineers to design and implement infrastructural changes to reduce or eliminate future accidents.
 
 
 ## Sources and references
