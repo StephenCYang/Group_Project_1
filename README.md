@@ -43,6 +43,8 @@ Heat map
 Combined
 
 ## To-do
-- Determine the X top hotspots
-- Determine the X most common Modus Operandi (MO)
-- Statistical plotting and possible conclusions
+~~- Determine the X top hotspots~~
+~~- Determine the X most common Modus Operandi (MO)~~
+~~- Statistical plotting and possible conclusions~~
+
+Done!
